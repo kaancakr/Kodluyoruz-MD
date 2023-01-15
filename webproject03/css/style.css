@@ -1,0 +1,22 @@
+.center {
+    margin: auto;
+    padding: 20px;
+    text-align: center;
+}
+
+.center-elements {
+    list-style-position: inside;
+}
+
+h1 {
+    color: red;
+}
+
+.font-type {
+    font-family: 'Roboto', sans-serif;
+}
+
+.align-left {
+    text-align: left;
+    color: cadetblue;
+}
